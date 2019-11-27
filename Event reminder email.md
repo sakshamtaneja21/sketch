@@ -1,0 +1,43 @@
+Hi/Hello **[attendee name],**
+
+Thanks so much for registering for our official Sketch meetup in **[city name]**. The event is only a few days away now, so we wanted to get in touch with some important info.
+
+First of all, if you’ve registered for the event and can no longer attend (or you’ve changed your mind) please let us know. This allows us to have a realistic prediction of numbers and offer available spots to other folks who want to attend.
+
+The meetup is taking place at **[venue name]** and the full address is:
+
+**[venue address]**
+
+*Add this block if your event is ticketed*
+
+---
+
+When you arrive at the venue, our team will be there to check you in so please make sure you have your ticket on your phone or printed out. If you do forget your ticket, simply state your name at the check-in desk instead.
+
+---
+
+The running order for the night is as follows:
+
+Example Schedule
+
+7pm — Doors Open
+
+7:15pm — Food served (buffet style)
+
+7:45pm — Talks start
+
+9pm — Enjoy yourselves!
+
+10.30pm — End
+
+Please note: The running order is subject to change.
+
+Before you attend the event, we’d really appreciate it if you could take a look at our [Code of Conduct](https://sketchapp.com/meetups/code-of-conduct/). Sketch is dedicated to a harassment-free event experience for everyone.
+
+We’re really excited to meet you all and share some good food, free drinks and great ideas with local designers in **[city name]**.
+
+Cheers!/Thanks — **[Swap this with the relevant cultural greeting]**
+
+**[name]**
+**[group link]**
+**[event hashtag]**

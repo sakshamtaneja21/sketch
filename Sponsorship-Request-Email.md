@@ -1,0 +1,14 @@
+Hi **[first name of owner/manager/contact]**!
+
+I’m **[first name]**, an organizer for a local design meetup here in **[city]**. Our goal is to create a space for design-lovers to connect with each other, share knowledge, and inspire each other to learn more about design. The meetups are open to everyone and are led by passionate volunteers.
+
+We’d love to explore the possibility of partnering with you for our meetups — we are currently looking for **[specific thing you need e.g. food, funding, venue, swag]**.
+
+In return, we’d love to promote your contribution at our events by adding you as a sponsor on our event page, as well as giving you a shoutout on social media and at the event. You’re also more than welcome to attend and give a short talk about your **[product/venue/business/idea]** to our users.
+
+I’d love to talk with you more about this opportunity so please let me know if this is something you’d be interested in helping with, or if there’s any other way you’d be interested in getting involved. Any help is appreciated.
+
+Many thanks/Kind regards/Yours sincerely — **[Swap this with the relevant cultural greeting]**
+
+**[Full name]**
+**[Meetup group link]**

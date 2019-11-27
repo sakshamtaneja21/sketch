@@ -1,0 +1,16 @@
+# Sketch [City Name]
+
+## What we’re about
+
+This an official Sketch meetup for designers and developers in **[city name]**. Join us to share knowledge, trade tips, and hear about new plugins and resources. Come along to meet local designers, learn more about the app and have fun with likeminded people.
+
+Whether you’re a beginner, a seasoned pro, or somewhere in between, all levels of experience are welcome.
+
+- Tell us the main focus of your group. Is it Q/A sessions, talks from inspiring designers in the industry, relaxed design discussion, hands on tutorials etc
+- Invite members to get in touch if they would like to present on a topic
+- Invite members to reach out if they have a venue in mind that would like to host the events
+- There will be Sketch merchandize and an exciting raffle at the events for a chance to win a Sketch license that you don’t want to miss
+
+We look forward to meeting you at our next event!
+
+[http://sketch.com](http://sketch.com/) — the definitive platform for digital design.
